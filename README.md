@@ -1,1 +1,1 @@
-# VP3
+# Virtual-Pet
